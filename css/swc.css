@@ -827,3 +827,7 @@ div.chapter h2 {
         margin: 0px 0px;
     }
 }
+
+.schedule td:first-of-type {
+  width: 20%;
+}
